@@ -1,6 +1,3 @@
-
----
-
 # Research Paper Implementations 
 
 Welcome to the **Research Paper Implementations** repository! 📚 
@@ -10,7 +7,7 @@ This repo contains my implementations of various research papers across domains 
 
 ## About This Repository  
 This repository contains **implementations of research papers**, focusing on translating theoretical concepts into practical code. 
-Each implementation closely follows the original paper, with explanations and optimizations noted in the comments of the `.py` or `.ipynb` files.
+Each implementation follows the original paper, with explanations and optimizations noted in the comments of the `.py` or `.ipynb` files.
 
 ---
 
@@ -28,5 +25,3 @@ The repository follows a structured format to ensure ease of navigation:
  │
  └── 📜 README.md  # You're here!
 ```
-
----
