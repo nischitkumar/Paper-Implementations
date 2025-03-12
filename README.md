@@ -1,12 +1,9 @@
 # Research Paper Implementations 
 
-Welcome to the **Research Paper Implementations** repository! 📚 
-This repository contains implementations of research papers in **Machine Learning, Deep Learning, and related fields**.
-
 ---
 
 ## About This Repository  
-This repository contains **implementations of research papers**, focusing on translating theoretical concepts into practical code. 
+This repository contains implementations of research papers in the field of **Machine Learning, Deep Learning, and related fields**, focusing on translating theoretical concepts into practical code. 
 Each implementation follows the original paper, with explanations and optimizations noted in the comments of the `.py` or `.ipynb` files.
 
 ---
