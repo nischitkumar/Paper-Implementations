@@ -1,8 +1,7 @@
 # Research Paper Implementations 
 
 Welcome to the **Research Paper Implementations** repository! 📚 
-This repo contains my implementations of various research papers across domains like **Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning and Natural Language Processing**. 
-
+This repository contains implementations of research papers in **Machine Learning, Deep Learning, and related fields**.
 ---
 
 ## About This Repository  
